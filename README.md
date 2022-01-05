@@ -1,35 +1,36 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <h3> Hi there! <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> </h3>
-  
-My name is [**Gerson Aranibar**](https://aranibar28.github.io/) a Systems Engineer specialized in Frontend development with backend skills. I like to work collaboratively and learn new technologies. I have experience in web development and systems analysis and design.
-  
-<br/>
-<br/>
 
-<h3 align="center">Things I code with</h3>
+I'm [**Gerson Aranibar**](https://aranibar28.github.io/), systems engineer and fullstack developer with knowledge in systems analysis and design.
 
-<p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-orange" />
-  <img alt="CCS3" src="https://img.shields.io/badge/-CCS3-blue" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow" />
-  <img alt="SASS" src="https://img.shields.io/badge/-SASS-violet" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8B0BFD" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-18B6B5" />
-  <img alt="React_Js" src="https://img.shields.io/badge/-React_Js-45b8d8" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-blue" />
-</p>
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-366E9F" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-848EBB" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-012B19" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-003E55" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-E48F01" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-80C464" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FECB2A" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-5B1EB3" />
-  <img alt="Node_Js" src="https://img.shields.io/badge/-Node_Js-43853d" />
-</p>
+<div align="center">
+  <a href="https://github.com/aranibar28">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aranibar28&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranibar28&layout=compact&langs_count=8&theme=swift"/>
+</div>
+<div style="display: inline_block"><br>
+  <a href="#">
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align='right' width='200' height='180' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'>
+  </a>
+</div>
   
-<br/>
+  ##
+ 
+<div>
+ <a href="https://wa.me/51940994003"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+ <a href="mailto:aranibar28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/gerson-aranibar"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+</div>
